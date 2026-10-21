@@ -1,1 +1,1 @@
-All Useful scripts here in this repository
+All Useful scripts are here in this repository
